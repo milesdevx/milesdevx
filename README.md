@@ -13,12 +13,6 @@ I'm **Mohammed**, a Full-Stack Developer and UI/UX Designer passionate about **W
 ![](https://streak-stats.demolab.com/?user=milesdevx&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=milesdevx&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=milesdevx&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=milesdevx&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=milesdevx&icon=0&color=0)](https://visitcount.itsvg.in)
 
