@@ -1,5 +1,6 @@
+### 👋 About Me
 
-## 👋 About Me<br><br>I'm **Miles**, a passionate developer and designer focused on building modern, practical, and user-friendly digital solutions.<br><br>💻 I work across **Full-Stack Development, Frontend Development, Backend Development, and UI/UX Design**.<br><br>🚀 I enjoy building **web applications, mobile apps, Telegram bots, automation tools, and developer-focused projects**.<br><br>🌱 Currently learning and improving my skills in **TypeScript, React, Next.js, Flutter, cloud technologies, and AI-powered applications**.<br><br>🛠️ My core technologies include **TypeScript, JavaScript, React, Next.js, Flutter, Dart, Tailwind CSS, Node.js, and MongoDB**.<br><br>🤖 I'm particularly interested in **AI, automation, Web3, cloud computing, and building useful tools that solve real-world problems**.<br><br>✨ I believe in learning by building, experimenting with new technologies, and continuously improving my development skills.<br>
+I'm **Mohammed**, a Full-Stack Developer and UI/UX Designer passionate about **Web Development, AI, Automation, Telegram Bots, and Mobile Apps**. I enjoy building modern, practical, and user-friendly digital solutions.
 
 
 ## 🌐 Socials:
